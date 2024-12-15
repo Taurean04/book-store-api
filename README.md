@@ -42,7 +42,7 @@ bookstore/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/bookstore.git
+   git clone https://github.com/Taurean04/book-store-api.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -73,7 +73,7 @@ bookstore/
 
 ## API Documentation
 
-Access the API documentation at `http://localhost:8080/swagger-ui.html`.
+![API documentation]`https://documenter.getpostman.com/view/40446670/2sAYHzFi7L`.
 
 ## Features
 
